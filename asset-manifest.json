@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snake-game/static/css/main.83d5a3f2.chunk.css",
+    "main.js": "/snake-game/static/js/main.4d8c4cfc.chunk.js",
+    "main.js.map": "/snake-game/static/js/main.4d8c4cfc.chunk.js.map",
+    "runtime-main.js": "/snake-game/static/js/runtime-main.f9e1bf59.js",
+    "runtime-main.js.map": "/snake-game/static/js/runtime-main.f9e1bf59.js.map",
+    "static/js/2.93846d94.chunk.js": "/snake-game/static/js/2.93846d94.chunk.js",
+    "static/js/2.93846d94.chunk.js.map": "/snake-game/static/js/2.93846d94.chunk.js.map",
+    "index.html": "/snake-game/index.html",
+    "precache-manifest.0a27749075dba2a7bd285473f9dd9f42.js": "/snake-game/precache-manifest.0a27749075dba2a7bd285473f9dd9f42.js",
+    "service-worker.js": "/snake-game/service-worker.js",
+    "static/css/main.83d5a3f2.chunk.css.map": "/snake-game/static/css/main.83d5a3f2.chunk.css.map",
+    "static/js/2.93846d94.chunk.js.LICENSE.txt": "/snake-game/static/js/2.93846d94.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/snake-game/static/media/nokiafc22.440b53b1.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e1bf59.js",
+    "static/js/2.93846d94.chunk.js",
+    "static/css/main.83d5a3f2.chunk.css",
+    "static/js/main.4d8c4cfc.chunk.js"
+  ]
+}
